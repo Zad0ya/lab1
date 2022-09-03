@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Projects\1. Struct\Учеба\Source.cpp(17,26): warning C4305: инициализация: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(31,20): warning C4305: =: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(33,23): warning C4305: =: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(37,21): warning C4305: =: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(43,21): warning C4305: =: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(49,17): warning C4305: =: усечение из "double" в "float"
+D:\Projects\1. Struct\Учеба\Source.cpp(51,20): warning C4305: =: усечение из "double" в "float"
+  Учеба.vcxproj -> D:\Projects\1. Struct\x64\Debug\Учеба.exe
